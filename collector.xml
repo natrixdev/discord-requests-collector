@@ -1,20 +1,18 @@
-using xml!
-
-!version: 4.0 !!author: natrix !!!rerquire js & xml using python 
-
-if !version == version:
-	{breack_Discord.New()}{
-
-	!!author need_to_be natrix;
-		[4.50export()]{
-		nin.exe --run
-		}
-	}if breack == true:
-		print(' $'$ ')
-
-x = y-htmlrequests.XML
-
-if y )true(
+<client>
+  <token>Some token...</token>
+  <commands>
+   <ping>
+  <message>pong!</message>
+  </ping>
+  </commands>
+</client>
 
 
---run --export --version.update
+<data> 
+	<url>https://var--rerquest</url>
+	<commands>
+		<ping>
+			<os.write(data)=>data.txt>
+		<ping>
+<url>
+	</data>
