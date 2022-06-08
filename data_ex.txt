@@ -1,0 +1,8 @@
+form: xml_writer 
+by: natrix dev 
+
+
+Format: 
+  Datas collected:
+  
+    'action: click_voice_disable' - request: 'https//discord.com/user/@me/settings/voice/disabled/token="your token will go here"'
